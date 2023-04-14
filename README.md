@@ -1,5 +1,4 @@
-# CDNJ-Loanna-Nguyen
-Provider preferences for Loanna Nguyen
+# Provider_Snippets
 
 This repository is meant to help medical scribes work more effectively with their providers by providing templates and pre-formatted checklists. Each SQLite database stored and maintained here contains lists made based on the preferences of a specific provider. This will help us ensure we are finishing everything that needs to be done in a patient chart when scribing. No patient-specific data will ever be uploaded to this repository. If you choose to contribute, ensure all information is thoroughly anonymous.
 
